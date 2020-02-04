@@ -2,7 +2,7 @@ html, body { height: 100%; width: 100%; }
 
 body { font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
 
-hr { border-color: #F05F40; border-width: 3px; max-width: 50px; }
+hr { border-color: #f8c60e; border-width: 3px; max-width: 50px; }
 
 hr.light { border-color: white; }
 
@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 
 p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; }
 
-.bg-primary { background-color: #F05F40; }
+.bg-primary { background-color: #6bc556; }
 
 .bg-dark { background-color: #222; color: white; }
 
