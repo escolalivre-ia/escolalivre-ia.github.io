@@ -10,6 +10,8 @@ a { -webkit-transition: all 0.35s; -moz-transition: all 0.35s; transition: all 0
 
 a:hover, a:focus { color: #eb3812; }
 
+div i { margin-bottom: 25px; margin-top: 25px; }
+
 h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; }
@@ -121,7 +123,7 @@ header .header-content .header-content-inner p { font-weight: 300; color: rgba(2
 
 .btn-xl { padding: 15px 30px; }
 
-#contact .fa { color: #222; font-size: 4em; }
+#contact .fa, #contact .fab { color: #222; font-size: 4em; }
 
 ::-moz-selection { color: white; text-shadow: none; background: #222; }
 
