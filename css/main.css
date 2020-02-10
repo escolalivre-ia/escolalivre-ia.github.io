@@ -18,11 +18,13 @@ p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; }
 
 .bg-primary { background-color: #6bc556; }
 
+.bg-secondary { background-color: #f8c60e; }
+
 .bg-dark { background-color: #222; color: white; }
 
 .text-faded { color: rgba(255, 255, 255, 0.7); }
 
-section { padding: 100px 0; }
+section { padding: 3em 0; }
 
 aside { padding: 50px 0; }
 
@@ -53,7 +55,7 @@ aside { padding: 50px 0; }
   .navbar-default.affix .nav > li > a, .navbar-default.affix .nav > li > a:focus { color: #222; }
   .navbar-default.affix .nav > li > a:hover, .navbar-default.affix .nav > li > a:focus:hover { color: #F05F40; } }
 
-header { position: relative; width: 100%; min-height: 200px; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("../img/header.png"); text-align: center; color: black; }
+header { position: relative; width: 100%; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("../img/header.png"); text-align: center; color: black; }
 
 header .header-content { position: relative; text-align: center; padding: 100px 15px 100px; width: 100%; }
 
@@ -68,7 +70,9 @@ header .header-content .header-content-inner p { font-weight: 300; color: rgba(2
   header .header-content .header-content-inner { max-width: 1000px; margin-left: auto; margin-right: auto; }
   header .header-content .header-content-inner p { font-size: 18px; max-width: 80%; margin-left: auto; margin-right: auto; } }
 
-.section-heading { margin-top: 0; }
+h1.section-heading { margin-top: .5em; }
+
+.section-heading { margin-top: 2em; }
 
 .service-box { max-width: 400px; margin: 50px auto 0; }
 
@@ -123,7 +127,7 @@ header .header-content .header-content-inner p { font-weight: 300; color: rgba(2
 
 .btn-xl { padding: 15px 30px; }
 
-#contact .fa, #contact .fab { color: #222; font-size: 4em; }
+#contato .fa, #contato .fab { color: #222; font-size: 4em; }
 
 ::-moz-selection { color: white; text-shadow: none; background: #222; }
 
