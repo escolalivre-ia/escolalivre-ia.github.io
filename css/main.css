@@ -55,7 +55,7 @@ aside { padding: 50px 0; }
   .navbar-default.affix .nav > li > a, .navbar-default.affix .nav > li > a:focus { color: #222; }
   .navbar-default.affix .nav > li > a:hover, .navbar-default.affix .nav > li > a:focus:hover { color: #F05F40; } }
 
-header { position: relative; width: 100%; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("../img/header.png"); text-align: center; color: black; }
+header { position: relative; width: 100%; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("../img/header-escola-livre-de-inteligencia-artificial.gif"); text-align: center; color: black; }
 
 header .header-content { position: relative; text-align: center; padding: 100px 15px 100px; width: 100%; }
 
