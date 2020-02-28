@@ -12,7 +12,7 @@ a:hover, a:focus { color: #eb3812; }
 
 div i { margin-bottom: 25px; margin-top: 25px; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; line-height: 1.5em; }
 
 p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; }
 
@@ -123,7 +123,7 @@ h1.section-heading { margin-top: .5em; }
 
 .btn-primary .badge { color: #F05F40; background-color: white; }
 
-.btn { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; border: none; border-radius: 300px; font-weight: 700; text-transform: uppercase; }
+.btn { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; border: none; border-radius: 300px; font-weight: 700; text-transform: uppercase; margin-bottom: 1em; margin-top: 0.5em; }
 
 .btn-xl { padding: 15px 30px; }
 
