@@ -44,11 +44,9 @@ aside { padding: 50px 0; }
 
 .navbar-default .nav > li.active > a:hover, .navbar-default .nav > li.active > a:focus:hover { background-color: transparent; }
 
-@media (min-width: 768px) { .navbar-default { background-color: transparent; border-color: rgba(255, 255, 255, 0.3); }
+@media (min-width: 768px) { .navbar-default { background-color: white; border-color: rgba(255, 255, 255, 0.3); /*.nav > li > a, .nav > li > a:focus { color: rgba(white, .7); &:hover { color: white; } }*/ }
   .navbar-default .navbar-header .navbar-brand { color: rgba(255, 255, 255, 0.7); }
   .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus { color: white; }
-  .navbar-default .nav > li > a, .navbar-default .nav > li > a:focus { color: rgba(255, 255, 255, 0.7); }
-  .navbar-default .nav > li > a:hover, .navbar-default .nav > li > a:focus:hover { color: white; }
   .navbar-default.affix { background-color: white; border-color: rgba(34, 34, 34, 0.5); }
   .navbar-default.affix .navbar-header .navbar-brand { color: #00F; font-size: 14px; }
   .navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus { color: #0000cc; }
