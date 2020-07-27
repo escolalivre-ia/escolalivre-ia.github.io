@@ -3,6 +3,7 @@
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  *//*! normalize.css v3.0.2 | MIT License | git.io/normalize */html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+div.highlight{background-color: #FF9;padding: 1em;text-align: center;}
 div.button{text-align: center;}
 .fa-trophy.first:before{color:#eed008;}
 .fa-medal.second:before{color: #a4a79b}

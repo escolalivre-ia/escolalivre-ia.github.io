@@ -45,15 +45,12 @@ aside { padding: 50px 0; }
 .navbar-default .nav > li.active > a:hover, .navbar-default .nav > li.active > a:focus:hover { background-color: transparent; }
 
 @media (min-width: 768px) { .navbar-default { background-color: white; border-color: rgba(255, 255, 255, 0.3); /*.nav > li > a, .nav > li > a:focus { color: rgba(white, .7); &:hover { color: white; } }*/ }
-  .navbar-default .navbar-header .navbar-brand { color: rgba(255, 255, 255, 0.7); }
-  .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus { color: white; }
+  .navbar-default .navbar-header .navbar-brand { color: rgba(0, 0, 0, 0.7); }
   .navbar-default.affix { background-color: white; border-color: rgba(34, 34, 34, 0.5); }
-  .navbar-default.affix .navbar-header .navbar-brand { color: #00F; font-size: 14px; }
-  .navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus { color: #0000cc; }
   .navbar-default.affix .nav > li > a, .navbar-default.affix .nav > li > a:focus { color: #222; }
   .navbar-default.affix .nav > li > a:hover, .navbar-default.affix .nav > li > a:focus:hover { color: #00F; } }
 
-header { position: relative; width: 100%; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("../img/header-escola-livre-de-inteligencia-artificial.gif"); text-align: center; color: black; }
+header { position: relative; width: 100%; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("../img/header-escola-livre-de-inteligencia-artificial.gif"); background-size: 100%; background-repeat: no-repeat; text-align: center; color: black; }
 
 header .header-content { position: relative; text-align: center; padding: 100px 15px 100px; width: 100%; }
 
