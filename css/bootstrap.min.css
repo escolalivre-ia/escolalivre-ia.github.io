@@ -3,6 +3,13 @@
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  *//*! normalize.css v3.0.2 | MIT License | git.io/normalize */html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+ul li ul li {font-size: .95em;}
+ul li {font-size: .55em;line-height: 1.5em;text-align: left;color: #333;}
+.vendas{color:#ff6600;}
+.preco{color:#f00;font-size:1.2em;}
+.preco-desconto{color:#00f;font-size:1.5em;}
+div.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 75%; margin: 0 auto;} 
+div.embed-container iframe, div.embed-container object, div.embed-container embed {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
 div.highlight{background-color: #FF9;padding: 1em;text-align: center;}
 div.button{text-align: center;}
 .fa-trophy.first:before{color:#eed008;}
