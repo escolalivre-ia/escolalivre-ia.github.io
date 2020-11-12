@@ -7,7 +7,7 @@
 	margin-top: 5em;
 }
 #hidden-div {
-	background-color: #FFF;
+	background-color: #AAA;
 	padding: 15px;
 	position: fixed; 
 	text-align: center;
@@ -16,6 +16,8 @@
 	z-index: 2;
 	width: 100%;
 }
+#hidden-div a {color: #fff}
+#hidden-div button {color: #000}
 ul li ul li {font-size: .95em;}
 ul li {font-size: .55em;line-height: 1.5em;text-align: left;color: #333;}
 .vendas{color:#ff6600;}
