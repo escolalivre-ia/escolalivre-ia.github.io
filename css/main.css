@@ -50,7 +50,7 @@ p {
   background-color: #fff; }
 
 .bg-dark {
-  background-color: #222;
+  background-color: #00124b;
   color: white; }
 
 .text-faded {
@@ -67,7 +67,7 @@ aside {
 
 .navbar-default {
   background-color: white;
-  border-color: rgba(34, 34, 34, 0.5);
+  border-color: rgba(0, 18, 75, 0.5);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
@@ -84,7 +84,7 @@ aside {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 13px;
-    color: #222; }
+    color: #00124b; }
     .navbar-default .nav > li > a:hover,
     .navbar-default .nav > li > a:focus:hover {
       color: #00F; }
@@ -110,10 +110,10 @@ aside {
         color: rgba(0, 0, 0, 0.7); }
       .navbar-default.affix {
         background-color: white;
-        border-color: rgba(34, 34, 34, 0.5); }
+        border-color: rgba(0, 18, 75, 0.5); }
         .navbar-default.affix .nav > li > a,
         .navbar-default.affix .nav > li > a:focus {
-          color: #222; }
+          color: #00124b; }
           .navbar-default.affix .nav > li > a:hover,
           .navbar-default.affix .nav > li > a:focus:hover {
             color: #00F; } }
@@ -236,14 +236,14 @@ h1.section-heading {
   padding-left: 0; }
 
 .btn-default {
-  color: #222;
+  color: #00124b;
   background-color: white;
   border-color: white;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s; }
   .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle .btn-default {
-    color: #222;
+    color: #00124b;
     background-color: #f2f2f2;
     border-color: #ededed; }
   .btn-default:active, .btn-default.active, .open > .dropdown-toggle .btn-default {
@@ -253,7 +253,7 @@ h1.section-heading {
     border-color: white; }
   .btn-default .badge {
     color: white;
-    background-color: #222; }
+    background-color: #00124b; }
 
 .btn-primary {
   color: white;
@@ -288,18 +288,18 @@ h1.section-heading {
   padding: 15px 30px; }
 
 #contato .fa, #contato .fab {
-  color: #222;
+  color: #00124b;
   font-size: 4em; }
 
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #222; }
+  background: #00124b; }
 
 ::selection {
   color: white;
   text-shadow: none;
-  background: #222; }
+  background: #00124b; }
 
 img::selection {
   color: white;
@@ -310,7 +310,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #222; }
+  -webkit-tap-highlight-color: #00124b; }
 
 .white {
   color: #fff; }
