@@ -3,6 +3,9 @@
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  *//*! normalize.css v3.0.2 | MIT License | git.io/normalize */html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+div > h2 > strong {
+	color: #00F;
+}
 #rodape-voluntarios {
 	margin-top: 5em;
 }
@@ -409,7 +412,7 @@ a.text-info:hover{color:#245269}
 a.text-warning:hover{color:#66512c}
 .text-danger{color:#a94442}
 a.text-danger:hover{color:#843534}
-.bg-primary{color:#fff;background-color:#337ab7}
+.bg-primary{color:#000;background-color:#337ab7}
 a.bg-primary:hover{background-color:#286090}
 .bg-success{background-color:#dff0d8}
 a.bg-success:hover{background-color:#c1e2b3}
